@@ -1,8 +1,8 @@
 H
-E
+DIFF
 L
 L
-O
+DIFF
 A
 G
 A
